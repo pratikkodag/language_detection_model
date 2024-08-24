@@ -16,6 +16,8 @@
 ## Introduction
 
 This project implements a Language Detection Model that classifies text into one of 17 languages. Using machine learning algorithms and Natural Language Processing (NLP) techniques, this model achieves high accuracy. The Support Vector Classification (SVC) model performed best with an accuracy of **98.3**. It can detect 
+
+
 1)English
 
 2) Malayalam
